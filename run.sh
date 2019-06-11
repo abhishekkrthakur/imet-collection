@@ -16,3 +16,4 @@ python3 train.py --fold 3
 python3 predict.py --fold 3
 python3 train.py --fold 4
 python3 predict.py --fold 4
+python3 combine_folds.py
